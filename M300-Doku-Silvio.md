@@ -108,6 +108,7 @@ Im Prinzip handelt es sich bei Vagrant um ein Werkzeug, das Software zur Virtual
 Mit dem Befehl vagrant ssh kann man sich dann auf die erstellte VM verbinden und dadurch direkt in der VM Befehle ausführen.
 ### Vagrant Boxen
 Boxen sind vorkonfigurierte (Vorlagen) virtuelle Maschinen für Vagrant. Es wurde entwickelt, um die Softwareverteilung und den Entwicklungsprozess zu beschleunigen. Jede vom Benutzer verwendete Box wird auf dem Computer gespeichert und muss nicht erneut aus dem Internet heruntergeladen werden.
+
 ![VagrantBox](./Bilder/vagrantbox.png)
 
 ---
